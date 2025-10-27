@@ -1,0 +1,5 @@
+{
+  "name": "Fridge Chef AI",
+  "description": "An application that generates creative recipes based on the ingredients you have in your fridge. Features an interactive virtual refrigerator and AI-powered recipe creation.",
+  "requestFramePermissions": []
+}
